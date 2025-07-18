@@ -1,0 +1,1 @@
+// Image compression UI with drag & drop, preview, compress button

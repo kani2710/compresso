@@ -1,0 +1,12 @@
+# Node dependencies
+node_modules
+
+# Build files
+dist
+
+# Local environment variables
+.env
+
+# System files
+.DS_Store
+.vscode
